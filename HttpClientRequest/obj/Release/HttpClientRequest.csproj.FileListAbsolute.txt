@@ -1,0 +1,12 @@
+D:\作品\HttpClientRequest\HttpClientRequest\bin\Release\HttpClientRequest.exe.config
+D:\作品\HttpClientRequest\HttpClientRequest\bin\Release\HttpClientRequest.exe
+D:\作品\HttpClientRequest\HttpClientRequest\bin\Release\HttpClientRequest.pdb
+D:\作品\HttpClientRequest\HttpClientRequest\bin\Release\zlib.net.dll
+D:\作品\HttpClientRequest\HttpClientRequest\obj\Release\HttpClientRequest.Form1.resources
+D:\作品\HttpClientRequest\HttpClientRequest\obj\Release\HttpClientRequest.Properties.Resources.resources
+D:\作品\HttpClientRequest\HttpClientRequest\obj\Release\HttpClientRequest.csproj.GenerateResource.cache
+D:\作品\HttpClientRequest\HttpClientRequest\obj\Release\HttpClientRequest.csproj.CoreCompileInputs.cache
+D:\作品\HttpClientRequest\HttpClientRequest\obj\Release\HttpClientRequest.csproj.CopyComplete
+D:\作品\HttpClientRequest\HttpClientRequest\obj\Release\HttpClientRequest.exe
+D:\作品\HttpClientRequest\HttpClientRequest\obj\Release\HttpClientRequest.pdb
+D:\作品\HttpClientRequest\HttpClientRequest\obj\Release\HttpClientRequest.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\作品\HttpClientRequest\HttpClientRequest\bin\Debug\HttpClientRequest.exe.config
+D:\作品\HttpClientRequest\HttpClientRequest\bin\Debug\HttpClientRequest.exe
+D:\作品\HttpClientRequest\HttpClientRequest\bin\Debug\HttpClientRequest.pdb
+D:\作品\HttpClientRequest\HttpClientRequest\obj\Debug\HttpClientRequest.Form1.resources
+D:\作品\HttpClientRequest\HttpClientRequest\obj\Debug\HttpClientRequest.Properties.Resources.resources
+D:\作品\HttpClientRequest\HttpClientRequest\obj\Debug\HttpClientRequest.csproj.GenerateResource.cache
+D:\作品\HttpClientRequest\HttpClientRequest\obj\Debug\HttpClientRequest.csproj.CoreCompileInputs.cache
+D:\作品\HttpClientRequest\HttpClientRequest\obj\Debug\HttpClientRequest.exe
+D:\作品\HttpClientRequest\HttpClientRequest\obj\Debug\HttpClientRequest.pdb
+D:\作品\HttpClientRequest\HttpClientRequest\bin\Debug\zlib.net.dll
+D:\作品\HttpClientRequest\HttpClientRequest\obj\Debug\HttpClientRequest.csproj.CopyComplete
